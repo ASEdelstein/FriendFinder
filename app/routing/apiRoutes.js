@@ -1,5 +1,5 @@
 //This file needs to be able to get all matches and input new matches and return result
-var friends = require("../../app/data/friends")();
+var friends = require("../../app/data/friend")();
 
 module.exports = function(app) {
     //Get all the friends	
